@@ -9,7 +9,7 @@ https://youtu.be/KnR3scwGjLE?feature=shared
 The video in the link above can be followed for an example of how to run our code. Alternatively, below are detailed instructions on how to run our main file backend.py.
 
 ## On Terminal
-### When the main file is opened run the following on Terminal:
+### Run the following on Terminal (Once the main file is opened):
 ##### cd my-app
 ##### npm start
 
