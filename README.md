@@ -18,7 +18,7 @@ The video in the link above can be followed for an example of how to run our cod
 ### What should happen?
 1. A new tab on your internet browser with the URL “localhost:3000” will appear, with the web page titled “ML Model Frontend”
 2. Go back to the code and run. The terminal will appear with the server is running - “Running on http://127.0.0.1:3000”
-3. Go back to the web page. Now filters can be entered into the input fields for a median housing price prediction to be generated.
+3. Go back to the web page. Now users can input data into the designated fields into the input fields to generate a prediction for median housing prices.
 
 ## Running Backend
 
