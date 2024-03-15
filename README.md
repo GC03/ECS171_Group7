@@ -10,8 +10,8 @@ The video in the link above can be followed for an example of how to run our cod
 
 ## On Terminal
 ### When the main file is opened run the following on Terminal:
-cd my-app
-npm start
+##### cd my-app
+##### npm start
 
 ## What should happen?
 1. A new tab on your internet browser with the URL “localhost:3000” will appear, with the web page titled “ML Model Frontend”
